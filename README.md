@@ -11,7 +11,7 @@ It includes some features:
 2. Sync the project with Gradle files
 3. Run the app
 
-## Some of demos of the application:
+## Some demos of the application:
 
 ![Screenshot 2025-05-03 081600](https://github.com/user-attachments/assets/15df960e-7af6-46c2-bdf0-3a29e73efbdd)
 ![Screenshot 2025-05-03 082324](https://github.com/user-attachments/assets/3f11adea-6515-41db-bbf5-7963002a35dd)
